@@ -19,7 +19,7 @@
 6. Flash gapps. Recommended: <a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/18-Oct-2021/">nikgapps core.</a>
 7. Flash Magisk.
 8. Flash DFE (optional if you have encrypted storage/vendor, if you are encypted and want to have decrypted internal storage in custom recovery).
-9. Flash this zip file.
+9. Flash <a href="https://drive.google.com/file/d/1CqxRpLZ16Rh0FbBXv6pjc9w2CeY4SddG/view?usp=sharing">this zip file.</a>
 10. Format data.
 11. Boot to Xtended.
 
@@ -45,7 +45,7 @@
 6. Flash gapps. Recommended: <a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/18-Oct-2021/">nikgapps core.</a>
 7. Flash Magisk.
 8. Flash DFE (optional if you have encrypted storage/vendor, if you are encypted and want to have decrypted internal storage in custom recovery).
-9. Flash this zip file.
+9. Flash <a href="https://drive.google.com/file/d/1CqxRpLZ16Rh0FbBXv6pjc9w2CeY4SddG/view?usp=sharing">this zip file.</a>
 10. Format data.
 11. Boot to Xtended.
 
