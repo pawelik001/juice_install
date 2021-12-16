@@ -3,8 +3,8 @@
 #### Xtended build date: 12-16-2021 (mm-dd-yyyy).
 * Xtended download link: https://downloads.project-xtended.org/?dir=juice/
 * Support group: https://t.me/pawelikhideout
-* XDA thread for lime: https://forum.xda-developers.com/t/rom-11-0-xtended-redmi-9t-9-power-9-4g-poco-m3-juice-14-07-2021.4305599/
-* XDA thread for citrus: 
+* XDA thread for lime (Redmi 9T): https://forum.xda-developers.com/t/rom-11-0-xtended-redmi-9t-9-power-9-4g-poco-m3-juice-14-07-2021.4305599/
+* XDA thread for citrus (POCO M3): https://forum.xda-developers.com/t/rom-12-0-xtended-redmi-9t-9-power-9-4g-poco-m3-juice-2021-12-16.4376007/
 
 <details>
 <summary>Redmi 9T / Redmi 9T NFC / Redmi 9 Power / Redmi Note 9 4G - codenames: lime, lemon, pomelo</summary>
